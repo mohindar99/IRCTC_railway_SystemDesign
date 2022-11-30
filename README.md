@@ -28,7 +28,7 @@ Some of the relational data bases which we probably use in this system are:
 
 **Book Ticket Services**
    1. Generate PNR()
-   2.BookTicket(train detail , userDetails)
+   2. BookTicket(train detail , userDetails)
    
 **Payment Services**
    1. PaymentProessing (PNR , transactionID, payment type)
