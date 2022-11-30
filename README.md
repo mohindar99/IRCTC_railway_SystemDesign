@@ -40,3 +40,12 @@ Some of the relational data bases which we probably use in this system are:
   2. Email Ticket
   3. Notify train running status(ticket)
 
+## Capacity Estimation:
+
+ 1. Train details/month - 6.2gb
+ 2. Train_booking_info & Details/month - 8gb
+ 3. Booking_payments_details/month - 4.6gb
+ 4. Total size/month - 18.8gb
+ 5. Total size/year ~ 223gb
+ 6. Total size/5 years ~ 1 Tb
+ 
